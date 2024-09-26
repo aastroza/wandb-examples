@@ -1,5 +1,7 @@
 jupyter
 wandb
+weave
 openai
 pandas
 python-dotenv
+loguru
