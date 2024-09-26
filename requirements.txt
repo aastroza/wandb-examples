@@ -1,0 +1,5 @@
+jupyter
+wandb
+openai
+pandas
+python-dotenv
